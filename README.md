@@ -21,12 +21,12 @@ Welcome to **JavaScript Mastery**, your ultimate learning hub for mastering Java
 Hey there, **code explorer!** 👋 Ready to **level up your JavaScript skills**? Whether you’re **just starting out** or looking to **become a JavaScript wizard**, this repository is your **ultimate learning hub**. Packed with **structured lessons, mind-challenging exercises, real-world projects, and code enhancements**, this is the **only JavaScript resource** you’ll ever need!  
 
 ---
-![GitHub stars](https://img.shields.io/github/stars/your-username/javascript-mastery?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/javascript-mastery?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/javascript-mastery)
-![GitHub license](https://img.shields.io/github/license/your-username/javascript-mastery)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/javascript-mastery)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/javascript-mastery)
+![GitHub stars](https://img.shields.io/github/stars/Waqas-Khan-CodeCanvas/Javascript-learning?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Waqas-Khan-CodeCanvas/Javascript-learning?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Waqas-Khan-CodeCanvas/Javascript-learning)
+![GitHub license](https://img.shields.io/github/license/Waqas-Khan-CodeCanvas/Javascript-learning)
+![GitHub contributors](https://img.shields.io/github/contributors/Waqas-Khan-CodeCanvas/Javascript-learning)
+![GitHub last commit](https://img.shields.io/github/last-commit/Waqas-Khan-CodeCanvas/Javascript-learning)
 
 
 ## 🚀 **Why Choose This Repository?**  
@@ -81,7 +81,7 @@ This repository isn’t just about reading—it’s about **DOING**!
 1️⃣ **Fork this repo** and **star it** ⭐  
 2️⃣ Clone it to your local machine:  
 ```bash
- git clone https://github.com/your-username/your-repo-name.git 
+ git clone https://github.com/Waqas-Khan-CodeCanvas/Javascript-learning.git 
 ```
 3️⃣ Explore the **categorized lessons** and **start coding!**  
 
@@ -101,9 +101,9 @@ This project is licensed under the **MIT License**. Feel free to use and share!
 
 ## 📧 **Contact**  
 
-📩 **Email:** [your-email@example.com]  
-🐦 **Twitter:** [your-handle](https://twitter.com/your-handle)  
-💻 **GitHub:** [your-username](https://github.com/your-username)  
+📩 **Email:** [waqaskhan0589@gmail.com]  
+🐦 **Twitter:** [@waqas](https://twitter.com/your-handle)  
+💻 **GitHub:** [Waqas khan](https://github.com/Waqas-Khan-CodeCanvas)  
 
 Have questions or need help? Feel free to **open an issue** on **GitHub Issues**.  
 
