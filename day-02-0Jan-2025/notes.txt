@@ -1,0 +1,9 @@
+-Head -> script tag (we also add external javascript file to head)
+-body -> script tag (add at the end of body tag  for internal scripting)
+-External file -> file extension should be .js
+
+DATA TYPES
+ 
+- String  -> 'waqas khan' or "waqas khan" or "124555"
+- Number  -> 12334 or -1 or 0
+- Boolean -> true / false 

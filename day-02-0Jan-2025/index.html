@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+        var englishhMarks = parseFloat(prompt('Enter English marks :'));
+        var mathMarks = parseFloat(prompt('Enter Mths marks :'));
+        var physicsMarks = parseFloat(prompt('Enter Physics marks :'));
+        var computerScienceMarks = parseFloat(prompt('Enter Computer Science marks :'));
+        var islamiatMarks = parseFloat(prompt('Enter Islamial marks :'));
+
+        var obtainedMarks = englishhMarks + mathMarks + physicsMarks + computerScienceMarks + islamiatMarks;
+        var percentage = (obtainedMarks / 500) * 100;
+
+        console.log(`Your English marks is : ${englishhMarks}`)
+        console.log(`Your Maths marks is : ${mathMarks}`)
+        console.log(`Your Physics marks is : ${physicsMarks}`)
+        console.log(`Your computer Science marks is : ${computerScienceMarks}`)
+        console.log(`Your Islamiat marks is : ${islamiatMarks}`)
+
+        console.log(`Your total marks is : ${obtainedMarks}`)
+        console.log(`Your Percentage is : ${percentage}%`)
+        
+    </script>
+</body>
+
+</html>
