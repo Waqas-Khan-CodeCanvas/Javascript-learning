@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./output.css">
+    <title>Replace-text</title>
+</head>
+
+<body class="bg-slate-900 flex justify-center items-center h-screen">
+    <div class="text-center">
+        <h2 class="text-2xl text-white ">Replace <span class="text-red-600">Text!</span></h2>
+        <div class="continer bg-amber-100 rounded p-2 w-50">
+            <div>
+                <textarea class="border-1 outline-0 p-3" name="text" id="text"
+                placeholder="Enter your text here ..."></textarea>
+            </div>
+            <input type="text" class=" border-2 border-red-200 outline-0 p-1 bg-white rounded " name="search" id="word" placeholder="Enter your Word ... ">
+            <button onclick="replaceText()" class="bg-sky-400 w-full rounded py-1 my-2  ">Replace</button>
+        </div>
+    </div>
+
+    <!-- <button id="getTextButton" class="bg-blue-500 text-white px-4 py-2 mt-4">Get Text</button>
+    <script>
+        document.getElementById('getTextButton').addEventListener('click', function() {
+            const text = document.getElementById('text').value;
+            console.log(text);
+        });
+    </script> -->
+    <script src="./scriipt.js"></script>
+</body>
+
+</html>
