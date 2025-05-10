@@ -1,0 +1,10 @@
+today's topics 
+    -> destructuring in javascript
+        1 :- array destructuring 
+        2 :- objects destructuring
+    -> default parameters
+        1 :- single 
+        2 :- array as parameters
+    -> Rest parameters
+        1 :- single
+        2 :- array with (...)    

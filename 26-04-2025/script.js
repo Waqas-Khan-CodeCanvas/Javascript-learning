@@ -1,0 +1,1 @@
+localStorage.setItem("name","waqas khan")
