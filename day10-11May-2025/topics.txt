@@ -1,0 +1,3 @@
+->rest and spread operatore
+ 1 :- arrays
+ 2 :- objects
