@@ -1,0 +1,128 @@
+Array Destructuring Tasks
+
+1. Basic Array Destructuring
+Extract the first two fruits from the array.
+
+const fruits = ["apple", "banana", "mango"];
+// Your code here
+
+2. Swap Variables
+Use array destructuring to swap a and b.
+
+let a = 5;
+let b = 10;
+// Your code here
+
+3. Destructuring with Default Values
+Destructure three values from colors, provide default if a value is missing.
+
+const colors = ["red"];
+// Your code here
+
+4. Skip Items in Array
+Extract the first and third numbers only.
+
+const numbers = [10, 20, 30];
+// Your code here
+
+5. Rest Operator in Destructuring
+Get the first number as first, and the rest as others.
+
+const nums = [1, 2, 3, 4, 5];
+// Your code here
+
+
+---
+
+Object Destructuring Tasks
+
+6. Basic Object Destructuring
+Extract name and age from the object.
+
+const person = { name: "Ali", age: 25, city: "Lahore" };
+// Your code here
+
+7. Rename Variables While Destructuring
+Destructure name as personName.
+
+const user = { name: "Sara", email: "sara@gmail.com" };
+// Your code here
+
+8. Default Values in Object Destructuring
+Destructure title and rating with default value 5.
+
+const book = { title: "JavaScript Basics" };
+// Your code here
+
+9. Nested Object Destructuring
+Destructure the city from inside address.
+
+const user = {
+  id: 1,
+  address: {
+    city: "Islamabad",
+    zip: "44000"
+  }
+};
+// Your code here
+
+10. Partial Object Destructuring
+Destructure only brand and model from the object.
+
+const laptop = {
+  brand: "Dell",
+  model: "XPS 13",
+  price: 250000,
+  color: "Silver"
+};
+// Your code here
+
+
+---
+
+Function Parameter Destructuring
+
+11. Destructure in Function Parameters (Object)
+Create a function that accepts an object and destructures name and role.
+
+function greet(user) {
+  // Destructure inside parameters or body
+}
+
+greet({ name: "Osama", role: "Teacher" });
+
+12. Destructure in Function Parameters (Array)
+Create a function that takes an array [x, y] and returns their sum.
+
+function add(coords) {
+  // Destructure here
+}
+
+console.log(add([5, 7]));
+
+13. Return Multiple Values from Function
+Return an array of two values and destructure them on the receiving end.
+
+function getUserInfo() {
+  // return name and email
+}
+
+// Destructure here
+
+14. Destructure from Array of Objects
+Destructure the title of the first two posts.
+
+const posts = [
+  { id: 1, title: "Hello" },
+  { id: 2, title: "World" }
+];
+// Your code here
+
+15. Destructure Object with Array Property
+Destructure skills from the object and get the first skill.
+
+const developer = {
+  name: "Ali",
+  skills: ["JavaScript", "React", "Node"]
+};
+// Your code here

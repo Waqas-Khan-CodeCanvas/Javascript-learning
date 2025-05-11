@@ -22,9 +22,20 @@
 // }
 // console.log(newPerson);
 
-const fruits  = ["apple","banana","cherry","peach"];
-const [firstFruit,secondFruit, ...restFruits] = fruits
+// const fruits  = ["apple","banana","cherry","peach"];
+// const [firstFruit,secondFruit, ...restFruits] = fruits
 
-console.log(firstFruit);
-console.log(secondFruit);
-console.log(restFruits);
+// console.log(firstFruit);
+// console.log(secondFruit);
+// console.log(restFruits);
+
+// const person  = {
+//     fullName : "waqas khan",
+//     age : 20,
+//     phoneNumber:"+92567890",
+//     email : "waqas@gmail.com",
+// }
+
+// const {age, ...restPerson} = person
+// console.log("age = ",age);
+// console.log("restPerson = ",restPerson);
