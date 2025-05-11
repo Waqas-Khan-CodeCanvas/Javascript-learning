@@ -1,3 +1,8 @@
 ->rest and spread operatore
  1 :- arrays
  2 :- objects
+
+-> rest parameters
+-> ternary operator (it's a shorhand if else)
+
+

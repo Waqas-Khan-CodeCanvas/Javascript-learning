@@ -33,4 +33,4 @@
 // Get the first number as first, and the rest as others.
 
 const nums = [1, 2, 3, 4, 5];
-const [first]
+// const [first]

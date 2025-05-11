@@ -39,3 +39,29 @@
 // const {age, ...restPerson} = person
 // console.log("age = ",age);
 // console.log("restPerson = ",restPerson);
+
+
+
+// rest parameters 
+
+// const add = (a,b,c,d) => console.log(a+b+c+d);
+// add(2,2,2,2)
+// const add = (...args) => {
+//     let sum = 0 
+//     args.forEach(item => {
+//         sum += item
+//     });
+//     console.log(sum);
+// };
+// add(2,2,2,2)
+
+
+// -> ternary operator (it's a shorhand if else)
+// const isIndian = true ; 
+// const result = isIndian ? "aiye  chai pi ke jaiye": "ishting...";
+// console.log(result);
+
+
+function greet(message){
+    alert(` hey ${message}` )
+}
