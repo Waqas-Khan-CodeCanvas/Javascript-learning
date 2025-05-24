@@ -1,0 +1,15 @@
++-------------------+
+|   Call Stack      |  <--- Where code runs (one thing at a time)
++-------------------+
+          ^
+          |
+          v
++-------------------+
+|   Event Queue     |  <--- Tasks waiting to run (like events, timers)
++-------------------+
+          ^
+          |
+          v
++-------------------+
+|   Event Loop      |  <--- Moves tasks from the queue to the stack
++-------------------+

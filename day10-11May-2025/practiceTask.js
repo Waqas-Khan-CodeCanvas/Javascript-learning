@@ -7,8 +7,8 @@ function createIcecream({ scoops = 1, toppings = ["Dark Chocolate"] } = {}) {
   );
 }
 
-// createIcecream({});
-// createIcecream({scoops : 1});
-// createIcecream({scoops : 2, toppings: [ "sparinkles", "smarties"]});
-// createIcecream({toppings: [ "starawberry"]})
-// createIcecream()
+createIcecream({});
+createIcecream({scoops : 1});
+createIcecream({scoops : 2, toppings: [ "sparinkles", "smarties"]});
+createIcecream({toppings: [ "starawberry"]})
+createIcecream()

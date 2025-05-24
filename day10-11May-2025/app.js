@@ -62,6 +62,6 @@
 // console.log(result);
 
 
-function greet(message){
-    alert(` hey ${message}` )
-}
+let gender  = "male";
+let msg =  gender ==="male" &&  "&& short-circuit"
+console.log(msg);

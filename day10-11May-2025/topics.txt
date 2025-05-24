@@ -4,5 +4,8 @@
 
 -> rest parameters
 -> ternary operator (it's a shorhand if else)
+-> short-circut evaluvation
 
 
+-> session and cookies
+-> event loop
