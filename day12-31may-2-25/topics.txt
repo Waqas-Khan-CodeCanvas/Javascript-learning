@@ -1,0 +1,7 @@
+localStorage 
+sessionStorage 
+
+object shorthand
+
+what is an api
+what is json
