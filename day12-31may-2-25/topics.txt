@@ -4,4 +4,11 @@ sessionStorage
 object shorthand
 
 what is an api
+web api | services api 
+|Rest api 
+api mehods
+    -> get , post , put , patch , delete
+library based axios
+os -> operating 
+
 what is json
