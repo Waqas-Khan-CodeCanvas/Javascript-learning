@@ -1,0 +1,5 @@
+-> objects
+    1 :- console.table()
+    2 :- console.table()
+    3 :- object.seal(objectName) prevent insertion only updates are allowed
+    4 :- loop over objects
